@@ -1,19 +1,4 @@
-name: Canneman
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.74686
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#215d8f'
@@ -25,4 +10,20 @@ color:
   lightness: 0.8536720399279147
   saturation: 0.6338950290810317
   rhythmicContrast: 0.4990813711192459
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Canneman
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Canneman
 purpose: []
